@@ -1,4 +1,3 @@
-
 module github.com/bakis-nl/pipeline-ii
 
 go 1.17
